@@ -8,4 +8,4 @@ echo "the arguments passed as string $*"
 echo "the arguments passed as array $@"
 echo "process id of the script$$"
 
-
+echo "Hi te97ja"
